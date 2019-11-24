@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CRUD_4TO</string>
+    <string name="CRUD_Title">A Programar el CRUD</string>
+    <string name="CRUD_Subtitle">4to Parcial</string>
+    <string name="name">Enter Name</string>
+    <string name="hobby">Enter Hobby</string>
+    <string name="welcome_message">Enter Name, Hoby to store in SQLite</string>
+    <string name="store">Store</string>
+    <string name="get">Get All Users from SQLite</string>
+</resources>
